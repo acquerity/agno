@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+python-jose
+PyJWT
+sqlalchemy
+httpx
+rich
+cohere
+anthropic
+groq
+openai
+google-generativeai
+lancedb 
